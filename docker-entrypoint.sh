@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./bnArb.py
+python3 bnArb.py
